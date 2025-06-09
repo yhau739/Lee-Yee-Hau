@@ -24,7 +24,7 @@ I'm a **Junior Software Engineer** passionate about building full-stack applicat
 
 ![Lee Yee Hau's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhau739&show_icons=true&theme=default&hide_rank=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yhau739&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yhau739&size_weight=0.5&count_weight=0.5)
 
 ---
 
